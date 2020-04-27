@@ -28,6 +28,8 @@ url: "https://aussieazuredevs.github.io" # the base hostname & protocol for your
 twitter_username: MicrosoftAUDev
 github_username:  aussieazuredevs
 
+future: false
+
 # Build settings
 theme: minima
 plugins:
