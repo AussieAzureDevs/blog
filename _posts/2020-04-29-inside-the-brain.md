@@ -17,9 +17,9 @@ image:
   width: 100
 ---
 
-*This is the second of our posts about Cognitive Pinball. In this article we will give you an overview of the software we used to prove the concepts. By the end, you'll be able to run your own cognitive pinball game in the cloud. You can read our first post [here][firstPost]{:target="_blank"}.*
+*This is the second of our posts about Cognitive Pinball. In this article we will give you an overview of the software we used to prove the concepts. By the end, you'll be able to run your own Cognitive Pinball game in the cloud. You can read our first post [here][firstPost]{:target="_blank"}.*
 
-In our [previous post][firstPost]{:target="_blank"} we introduced Cognitive Pinball, a retro pinball machine training which uses a Deep Reinforcement Learning model to create an AI capable of learning to play a game without the need for supervision. If we piqued your interest, you might be wondering "How can I build my own?". Good news! This post will not only explain the software components that fit together to make our Pinball machine work, we'll also step you through getting your own software version up and learning.
+In our [previous post][firstPost]{:target="_blank"} we introduced Cognitive Pinball, a retro pinball machine which uses a Deep Reinforcement Learning model to create an AI capable of learning to play a game without the need for supervision. If we piqued your interest, you might be wondering "How can I build my own?". Good news! This post will not only explain the software components that fit together to make our pinball machine work, we'll also step you through getting your own software version up and learning.
 
 ## Getting Started
 
@@ -68,7 +68,7 @@ The instructions within the GitHub repo should have allowed you to get some basi
 
 In the not too distant future, we'll be publishing a video tour of the Star Wars Pinball machine hardware, and showing you how you can build your very own physical Cognitive Pinball.
 
-In the meantime, check out Microsoft AU Developer on [Twitter][msDevTwitter]{:target="_blank"} or [sign up][newsletter]{:target="_blank"} for our community newsletter to get access to more content like this as well as tips, tricks and inspiration. More importantly, go forth and build your own software Pinball AI and have some fun.
+In the meantime, check out Microsoft AU Developer on [Twitter][msDevTwitter]{:target="_blank"} or [sign up][newsletter]{:target="_blank"} for our community newsletter to get access to more content like this as well as tips, tricks and inspiration. More importantly, go forth and build your own software pinball AI and have some fun.
 
 
 <!-- Footnotes -->
