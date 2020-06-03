@@ -7,6 +7,7 @@ comments: true
 author: JT
 
 future: true
+published: false
 
 slug: inside-the-brain
 permalink: /:categories/:slug
