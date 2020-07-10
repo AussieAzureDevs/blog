@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Cognitive Pinball - Inside the Brain"
-date:   2020-04-29 08:00:00 +1000
+date:   2020-07-13 08:00:00 +1000
 categories: pinball
 comments: true
 author: JT
 
 future: true
-published: false
+published: true
 
 slug: inside-the-brain
 permalink: /:categories/:slug
@@ -82,12 +82,12 @@ In the meantime, check out Microsoft AU Developer on [Twitter][msDevTwitter]{:ta
 [unity]: https://unity3d.com/get-unity/download "Unity 3D engine and development tooling"
 [spaceCadet]: https://en.wikipedia.org/wiki/Full_Tilt!_Pinball#3D_Pinball_for_Windows_–_Space_Cadet "Space Cadet Pinball for Windows"
 
-[python]: https://github.com/AussieAzureDevs/3DPinballAI/blob/master/Docs/Using-Virtual-Environment.md "Setting up a Python Virtual Environment"
-[githubRepo]: https://github.com/AussieAzureDevs/3DPinballAI "Source code"
+[python]: https://github.com/Azure/3DPinballAI/blob/main/Docs/Using-Virtual-Environment.md "Setting up a Python Virtual Environment"
+[githubRepo]: https://github.com/Azure/3DPinballAI "Source code"
 
-[pinballAgent]: https://github.com/AussieAzureDevs/3DPinballAI/blob/master/Assets/Scripts/PinballAgent.cs "Pinball Agent source code"
+[pinballAgent]: https://github.com/Azure/3DPinballAI/blob/main/Assets/Scripts/PinballAgent.cs "Pinball Agent source code"
 
-[windowManager]: https://github.com/AussieAzureDevs/3DPinballAI/blob/master/Assets/Scripts/ExternalWindowManager.cs "External Window Manager source code"
+[windowManager]: https://github.com/Azure/3DPinballAI/blob/main/Assets/Scripts/ExternalWindowManager.cs "External Window Manager source code"
 
 [msDevTwitter]: https://twitter.com/MicrosoftAUDev  "MS Dev Twitter"
 
