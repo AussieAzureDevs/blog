@@ -6,7 +6,7 @@ categories: pinball
 comments: true
 author: JT
 
-future: true
+future: false
 published: true
 
 slug: inside-the-brain
