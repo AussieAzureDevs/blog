@@ -23,7 +23,7 @@ In our [previous post][firstPost]{:target="_blank"} we introduced Cognitive Pinb
 
 ## Getting Started
 
-The first you're going to need is a Windows machine. This is because we're going to go hard on nostalgia and train the brain on the old Windows 95 [Space Cadet Pinball][spaceCadet]{:target="_blank"}. If you don't have a Windows machine because you're a Mac or Linux fan, setting one up on [Azure][freeAzure]{:target="_blank"} is super easy!
+The first thing you're going to need is a Windows machine. This is because we're going to go hard on nostalgia and train the brain on the old Windows 95 [Space Cadet Pinball][spaceCadet]{:target="_blank"}. If you don't have a Windows machine because you're a Mac or Linux fan, setting one up on [Azure][freeAzure]{:target="_blank"} is super easy!
 
 Once you've got a Windows machine to work with you'll need the following software downloaded and installed to get started:
 
