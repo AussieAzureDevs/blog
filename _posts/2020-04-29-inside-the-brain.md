@@ -68,7 +68,7 @@ The instructions within the GitHub repo should have allowed you to get some basi
 
 In the not too distant future, we'll be publishing a video tour of the Star Wars Pinball machine hardware, and showing you how you can build your very own physical Cognitive Pinball.
 
-In the meantime, check out Microsoft AU Developer on [Twitter][msDevTwitter]{:target="_blank"} or [sign up][newsletter]{:target="_blank"} for our community newsletter to get access to more content like this as well as tips, tricks and inspiration. More importantly, go forth and build your own software pinball AI and have some fun.
+In the meantime, check out Microsoft AU Developer on [Twitter][msDevTwitter]{:target="_blank"} or [sign up][newsletter]{:target="_blank"} for our community newsletter to get access to more content like this as well as tips, tricks and inspiration. More importantly, go forth and build your own software pinball AI and have some fun!
 
 
 <!-- Footnotes -->
