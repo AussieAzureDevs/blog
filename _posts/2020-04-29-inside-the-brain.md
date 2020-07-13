@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Cognitive Pinball - Inside the Brain"
-date:   2020-07-13 08:00:00 +1000
+date:   2020-07-12 08:00:00 +1000
 categories: pinball
 comments: true
 author: JT
 
-future: false
 published: true
 
 slug: inside-the-brain
