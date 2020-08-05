@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Cognitive Pinball - Inside the Brain"
-date:   2020-04-29 08:00:00 +1000
+date:   2020-07-12 08:00:00 +1000
 categories: pinball
 comments: true
 author: JT
 
-future: true
-published: false
+published: true
 
 slug: inside-the-brain
 permalink: /:categories/:slug
@@ -24,7 +23,7 @@ In our [previous post][firstPost]{:target="_blank"} we introduced Cognitive Pinb
 
 ## Getting Started
 
-The first you're going to need is a Windows machine. This is because we're going to go hard on nostalgia and train the brain on the old Windows 95 [Space Cadet Pinball][spaceCadet]{:target="_blank"}. If you don't have a Windows machine because you're a Mac or Linux fan, setting one up on [Azure][freeAzure]{:target="_blank"} is super easy!
+The first thing you're going to need is a Windows machine. This is because we're going to go hard on nostalgia and train the brain on the old Windows 95 [Space Cadet Pinball][spaceCadet]{:target="_blank"}. If you don't have a Windows machine because you're a Mac or Linux fan, setting one up on [Azure][freeAzure]{:target="_blank"} is super easy!
 
 Once you've got a Windows machine to work with you'll need the following software downloaded and installed to get started:
 
@@ -69,7 +68,7 @@ The instructions within the GitHub repo should have allowed you to get some basi
 
 In the not too distant future, we'll be publishing a video tour of the Star Wars Pinball machine hardware, and showing you how you can build your very own physical Cognitive Pinball.
 
-In the meantime, check out Microsoft AU Developer on [Twitter][msDevTwitter]{:target="_blank"} or [sign up][newsletter]{:target="_blank"} for our community newsletter to get access to more content like this as well as tips, tricks and inspiration. More importantly, go forth and build your own software pinball AI and have some fun.
+In the meantime, check out Microsoft AU Developer on [Twitter][msDevTwitter]{:target="_blank"} or [sign up][newsletter]{:target="_blank"} for our community newsletter to get access to more content like this as well as tips, tricks and inspiration. More importantly, go forth and build your own software pinball AI and have some fun!
 
 
 <!-- Footnotes -->
@@ -82,12 +81,12 @@ In the meantime, check out Microsoft AU Developer on [Twitter][msDevTwitter]{:ta
 [unity]: https://unity3d.com/get-unity/download "Unity 3D engine and development tooling"
 [spaceCadet]: https://en.wikipedia.org/wiki/Full_Tilt!_Pinball#3D_Pinball_for_Windows_–_Space_Cadet "Space Cadet Pinball for Windows"
 
-[python]: https://github.com/AussieAzureDevs/3DPinballAI/blob/master/Docs/Using-Virtual-Environment.md "Setting up a Python Virtual Environment"
-[githubRepo]: https://github.com/AussieAzureDevs/3DPinballAI "Source code"
+[python]: https://github.com/Azure/3DPinballAI/blob/main/Docs/Using-Virtual-Environment.md "Setting up a Python Virtual Environment"
+[githubRepo]: https://github.com/Azure/3DPinballAI "Source code"
 
-[pinballAgent]: https://github.com/AussieAzureDevs/3DPinballAI/blob/master/Assets/Scripts/PinballAgent.cs "Pinball Agent source code"
+[pinballAgent]: https://github.com/Azure/3DPinballAI/blob/main/Assets/Scripts/PinballAgent.cs "Pinball Agent source code"
 
-[windowManager]: https://github.com/AussieAzureDevs/3DPinballAI/blob/master/Assets/Scripts/ExternalWindowManager.cs "External Window Manager source code"
+[windowManager]: https://github.com/Azure/3DPinballAI/blob/main/Assets/Scripts/ExternalWindowManager.cs "External Window Manager source code"
 
 [msDevTwitter]: https://twitter.com/MicrosoftAUDev  "MS Dev Twitter"
 
